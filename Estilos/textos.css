@@ -1,0 +1,72 @@
+
+.body{
+    background-color: #FFF9C4;
+    margin: 30px;
+
+
+}
+.educs{
+font-family: cursive;
+font-size: 20px;
+color: black;
+margin: 0;
+display:inline-flex;
+padding-top: 30px;
+letter-spacing: 1px;
+text-align:justify;
+
+}
+
+.titulo2{
+font-family: cursive;
+color: #FF5722;
+font-size: 20px;
+text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.foto{
+    width: 700px;
+    display: block;
+    margin: 135px auto;
+    border-radius: 20px;
+}
+.familia{
+font-family: cursive;
+font-size: 20px;
+color: black;
+margin: 0;
+padding-top: 30px;
+letter-spacing: 1px;
+text-align: justify;
+
+}
+
+footer{
+    width: 100%;
+    display: block;
+
+}
+.iconosredes{
+    text-align:center;
+
+}
+
+.ajustesicono{
+    display: inline-flexbox;
+    margin: 50px 3 5px;
+
+}
+.tectofooter{
+padding-top: 8px;
+width: 100%;
+font-family: cursive;
+text-align: center;
+color: black;
+font-style: 20px;
+background-color: #FFEB3B;
+height: 80px;
+}
+
+

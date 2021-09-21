@@ -1,0 +1,14 @@
+.barra{
+    background: #FFEB3B !important;
+    winth: 97%
+    margin-top:20
+}
+
+.color > li> a{
+  color:  #212121 !important;
+  font-family: cursive !important;
+  font-size: 30px;
+  margin-left: 30px;
+  margin-top: 10px;
+
+}
